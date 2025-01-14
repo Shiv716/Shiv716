@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shivang Chaudhary</h1>
-<h3 align="center">A passionate developer based in the United Kingdom.</h3>
+<h3 align="center">👨‍💻 A passionate developer based in the United Kingdom, specializing in AI, machine learning, and data-driven solutions.</h3>
 
-- 💬 Ask me about **Python, Java, NLP, Machine Learning**
+- 💬 Ask me about **Python, Java, NLP, Machine Learning, Data Analysis**
 
 - 📫 How to reach me **cshivang2002@gmail.com**
 
