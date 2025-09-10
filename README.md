@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Shivang Chaudhary</h1>
 <h3 align="center">👨‍💻 A passionate developer based in the United Kingdom, specializing in AI, machine learning, and data-driven solutions.</h3>
 
-- 💬 Ask me about **Python, Java, NLP, Machine Learning, Data Engineering, UI Development, or Front-End Development.**
+- 💬 Ask me about **Python, Java, NLP, Machine Learning, Data Engineering or UI Development.**
 
 - 📫 How to reach me **cshivang2002@gmail.com**
+
+- When I am bored, I build more cool stuff and compete in Hackathons 🫡
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
