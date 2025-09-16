@@ -12,6 +12,9 @@
 <a href="https://linkedin.com/in/shivang-chaudhary-2235831b5/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shivang chaudhary" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/profile/cshivang2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@cshivang2002" height="30" width="40" /></a>
 <a href="https://discord.com/channels/@me" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="shiv_7" height="30" width="40" /></a>
+<a href="https://www.instagram.com/iamshivangchaudhary" target="blank">
+<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="@cshivang2002" height="30" width="40" />
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
