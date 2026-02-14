@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shivang Chaudhary</h1>
 <h3 align="center">👨‍💻 An Engineer based in the United Kingdom, specializing in AI, machine learning, and data-driven solutions.</h3>
 
-- 💬 Ask me about **Python, Java, NLP, Machine Learning, Data Engineering or UI Development.**
+- 💬 Ask me about **Python, Java, NLP, Machine Learning or Data Engineering.**
 
 - 📫 How to reach me **cshivang2002@gmail.com**
 
