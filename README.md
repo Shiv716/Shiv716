@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shivang Chaudhary</h1>
-<h3 align="center">👨‍💻 An Engineer based in the United Kingdom, specializing in AI, automation, and data-driven solutions.</h3>
+<h3 align="center">AI Agent Engineer | Co-Founder @ <a href="https://bridgeii.com">Bridge</a> | Hackathon addict 🏆</h3>
 
 - 💬 Ask me about AI Agents, Full-Stack Development & Cloud Architecture
 
